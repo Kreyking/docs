@@ -1,17 +1,18 @@
----
+Import title
+
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: '2'
+  ghes: '7'
+  ghae: '1'
+  ghec: '9'
 type: quick_start
 topics:
   - Pull requests
   - Fundamentals
 miniTocMaxHeadingLevel: 3
----
+
 
 ## Introduction
 
